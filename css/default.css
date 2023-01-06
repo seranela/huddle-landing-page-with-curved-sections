@@ -92,6 +92,10 @@ h2 {
 	margin: 0;
 }
 
+.social-links-heading {
+	color: white;
+}
+
 p {
 	letter-spacing: -0.02em;
 	line-height: 1.5;
